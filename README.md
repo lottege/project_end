@@ -13,5 +13,7 @@ Bigger awareness will be created by showing how many trash we produce per person
 - the afterlife of the trash is shown in a bar chart
 - click on a bar of the chart to see the equivalent expressed in bottles of water per person
 
+![](doc/project_visualisatie.png)
+
 data source:
 http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=tsdpc240&language=en&toolbox=data
