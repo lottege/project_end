@@ -17,3 +17,4 @@ Bigger awareness will be created by showing how many trash we produce per person
 
 data source:
 http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=tsdpc240&language=en&toolbox=data
+http://ec.europa.eu/eurostat/web/environment/waste/main-tables
